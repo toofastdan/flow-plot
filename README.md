@@ -1,1 +1,4 @@
 # flow-plot
+This is a quick program that will use python's seaborn data visualization library to plot a scatterplot from csv files exported from the FlowJo software.  It plots protein expression data for individual cells.
+
+The purpose of this project to the be able to plot protein expression data without a FlowJo USB license key (which costs over $1000).  The FlowJo sotfware has limited figure making options and will not allow you make make figures without hte USB license key.  However, FlowJo will allow people to export a raw csv file with all the data bundled in.  Seaborn will allow us to make customizable, publication-grade figures without having to rely on overly-expensive software with limited figure making ability.
