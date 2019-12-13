@@ -31,7 +31,7 @@ The FlowJo software is a pain in the ass to use. :rage: :rage: :rage: It's buggy
 5. csv 
 
 ## Problems and Work in Progress: 
-**1. Testing some functions in the code using pytest**
+1. Testing some functions in the code using pytest
 2. Working out some complications on setting the log-log x-y axis on some plots 
 3. Stream-lining the code a bit 
 
